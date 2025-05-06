@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 📫 How to reach me: [hananfijananto@gmail.com] or via LinkedIn at [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/hanan-fijananto-1362152b7/)]  
 😄 Pronouns: he/him (ganti sesuai preferensi kamu)  
 ⚡ Fun fact: I love turning simple ideas into beautiful and functional websites!
-  -->
+-->
 
 ## MY SKILLS:
 
@@ -29,3 +29,15 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yoloez/Yoloez/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yoloez/Yoloez/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Yoloez/Yoloez/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<img src="https://raw.githubusercontent.com/Yoloez/Yoloez/output/snake.svg" alt="Snake animation" />
+
+###
