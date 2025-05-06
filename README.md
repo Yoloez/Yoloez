@@ -9,13 +9,13 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 
-- 🌱 I’m currently learning javascript, java, bootstrap
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🌱 I’m currently learning JavaScript, Java, and Bootstrap  
+👯 I’m looking to collaborate on beginner-friendly web development projects  
+🤔 I’m looking for help with building responsive websites and understanding backend integration  
+💬 Ask me about HTML, CSS, or anything related to UI/UX design  
+📫 How to reach me: [hananfijananto@gmail.com] or via LinkedIn at [[linkedin.com/in/yourprofile](https://www.linkedin.com/in/hanan-fijananto-1362152b7/)]  
+😄 Pronouns: he/him (ganti sesuai preferensi kamu)  
+⚡ Fun fact: I love turning simple ideas into beautiful and functional websites!
   -->
 
 ## MY SKILLS:
