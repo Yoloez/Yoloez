@@ -1,4 +1,4 @@
-## Hellow, World👋
+## Hello, everyone👋
 
 ![Hanan](github-header-image.png)
 
