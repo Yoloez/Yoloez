@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <!-- - 🔭 I’m currently working on ... -->
 
-🌱 I’m currently learning JavaScript, Java, and Bootstrap  
+🌱 I’m currently learning JavaScript, Java, and PHP  
 👯 I’m looking to collaborate on beginner-friendly web development projects  
 🤔 I’m looking for help with building responsive websites and understanding backend integration  
 💬 Ask me about HTML, CSS, or anything related to UI/UX design  
