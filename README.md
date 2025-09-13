@@ -1,6 +1,6 @@
 ## Hello, everyone👋
 
-![Hanan](lofi 4k.jpeg)
+![Hanan](lofi-4k.png)
 
 <!--
 **Yoloez/Yoloez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
