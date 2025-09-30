@@ -39,12 +39,12 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">My IDE</h1>
-<div style="display: flex; flex-direction: row; gap:6;">
+<div style="display: flex; flex-direction: row; gap:6; justify-content: center">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
 </div>
 
 <h1 align="center">Chill zone 🍃</h1>
-<div style="display: flex; flex-direction: row; gap:6;">
+<div style="display: flex; flex-direction: row; gap:6; align-items:center">
   
 <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"/><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
 </div>
