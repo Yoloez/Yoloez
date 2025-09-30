@@ -34,7 +34,6 @@ Here are some ideas to get you started:
 <img src="[https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)"/> 
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<!-- <img src=""/> -->
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=Laragon&logoColor=white"/></ br>
 
@@ -44,7 +43,10 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Chill zone 🍃</h1>
+<div style="display: flex; flex-direction: row; gap:5px;">
+  
 <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"/><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+</div>
 
 
 <picture>
