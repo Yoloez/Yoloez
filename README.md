@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 <h1 align="center">My IDE</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
-![](https://komarev.com/ghpvc/?username=Yoloez&color=green)
 </p>
 
 <h1 align="center">Chill zone 🍃</h1>
@@ -58,6 +57,7 @@ Here are some ideas to get you started:
   
 </p>
 
+![](https://komarev.com/ghpvc/?username=Yoloez&color=green&style=for-the-badge)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yoloez/Yoloez/output/pacman-contribution-graph-dark.svg">
